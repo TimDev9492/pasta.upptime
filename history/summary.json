@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pasta.place.ico",
     "slug": "pasta-place",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 842,
-    "timeDay": 1034,
-    "timeWeek": 836,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 853,
+    "timeDay": 1081,
+    "timeWeek": 892,
+    "timeMonth": 853,
+    "timeYear": 853,
     "dailyMinutesDown": {
-      "2025-12-02": 13,
       "2025-11-21": 30
     }
   }
