@@ -5,7 +5,9 @@ repo: pasta.upptime # The name of this repository
 sites:
   - name: pasta.place
     url: https://pasta.place
-
+    type: globalping
+    check: http
+    location: karlsruhe
 assignees:
   - TimDev9492
 
