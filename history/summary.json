@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pasta.place.ico",
     "slug": "pasta-place",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 660,
-    "timeDay": 28,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 644,
+    "timeDay": 27,
     "timeWeek": 30,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-11-21": 30
     }
