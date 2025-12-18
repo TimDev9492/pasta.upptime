@@ -4,7 +4,7 @@
     "url": "https://pasta.place",
     "icon": "https://icons.duckduckgo.com/ip3/pasta.place.ico",
     "slug": "pasta-place",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 475,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2025-12-18": 0,
       "2025-11-21": 30
     }
   }
